@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b72f5eae-1459-499c-b715-e51f6d6d95fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a2y5q8PFDBRuR3hVyio6VpKBNj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/projects/scytl/test/meae_credential_manager_be" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+      <module name="360T" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b72f5eae-1459-499c-b715-e51f6d6d95fe" name="Default Changelist" comment="" />
+      <created>1585947802099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585947802099</updated>
+      <workItem from="1585947805868" duration="256000" />
+      <workItem from="1585949713885" duration="23064000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="41" key="#com.intellij.ide.util.MemberChooser" timestamp="1585962463713">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="41" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1585962463713" />
+    <state x="396" y="43" key="#xdebugger.evaluate" timestamp="1585967335620">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="43" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1585967335620" />
+    <state x="399" y="202" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585967047388">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="202" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1585967047388" />
+    <state width="480" height="438" key="DebuggerActiveHint" timestamp="1585968295360">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="480" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1585968295360" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1585969240681">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585969240681" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1585971094231">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585971094231" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1585971094231">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585971094231" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1585971094231">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585971094231" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1585971094231">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585971094231" />
+    <state width="1237" height="197" key="GridCell.Tab.1.bottom" timestamp="1585968810862">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="197" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585968810862" />
+    <state width="1237" height="197" key="GridCell.Tab.1.center" timestamp="1585968810862">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="197" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585968810862" />
+    <state width="1237" height="197" key="GridCell.Tab.1.left" timestamp="1585968810862">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="197" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585968810862" />
+    <state width="1237" height="197" key="GridCell.Tab.1.right" timestamp="1585968810862">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="197" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585968810862" />
+    <state width="647" height="338" key="XDebugger.FullValuePopup" timestamp="1585967591545">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="338" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1585967591545" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1585969454834">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1585969454834" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/App.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
